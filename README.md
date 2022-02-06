@@ -8,7 +8,7 @@ For that reason I have developed Workout Tracker. in Workout Tracker you can fin
 You can see all your workouts history on the calendar or see a summary of your last seven days on the home screen.<br />
 You can view or edit your previous workout at any time so don't worry about mistakes.<br />
 on the home screen, you will see a medal with how many weeks you kept on track by your goal.<br /> 
-stop worrying about losing your progress thanks to Cloud Storage.<br /> 
+Stop worrying about losing your progress thanks to Cloud Storage.<br /> 
 Of course, every one of us has different wants and needs, because of that, you can change the settings at any time to fit your needs.<br />
 <br />
 
@@ -88,7 +88,7 @@ Mark as No<br />
 <br />
 <br />
 <br />
-## credit
+## Credit
 The app was developed by Shai odeni using Flutter.
 
 
