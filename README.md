@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/82652251/152672631-9e821b0a-21ab-4955-
 
 ## Workout Tracker Preview
 **Workout Log**<br />
-![home page](https://user-images.githubusercontent.com/82652251/152674594-93b2f984-c40d-4437-94e8-a3c76f1ea5c0.png)
+![home page](https://user-images.githubusercontent.com/82652251/152680874-9c7f602e-a997-47c5-8cde-d857eb079ca7.png)
 <br />
 <br />
 <br />
