@@ -2,14 +2,14 @@
 ## Introducing  Workout Tracker
 <br />
 <br />
-Tired of writing your workouts one by one? Lost motivation? You what to find a way to stay on track?<br />
+Tired of writing your workouts one by one? Lost motivation? You wants to find a way to stay on track?<br />
 <br />
-For that reason I have developed Workout Tracker. in Workout Tracker you can find motivation with more the 4500 quotes, that change every time you open the app.<br />
+For that reason I have developed the Workout Tracker. in Workout Tracker you can find motivation with more then 4500 quotes, that changes every time you open the app.<br />
 You can see all your workouts history on the calendar or see a summary of your last seven days on the home screen.<br />
-You can view or edit your previous workout at any time so don't worry about mistakes.<br />
-on the home screen, you will see a medal with how many weeks you kept on track by your goal.<br /> 
+You can also view or edit your previous workouts at any time so don't worry about mistakes.<br />
+On the home screen, you will see a medal with how many weeks you kept on track by your goal.<br /> 
 Stop worrying about losing your progress thanks to Cloud Storage.<br /> 
-Of course, every one of us has different wants and needs, because of that, you can change the settings at any time to fit your needs.<br />
+Of course, every one of us has different goals, that's why you can change the settings at any time to fit your goals.<br />
 <br />
 
 So start your journey on **Workout Tracker** and achieve your **goals!**
@@ -44,12 +44,12 @@ https://user-images.githubusercontent.com/82652251/152672631-9e821b0a-21ab-4955-
 <br />
 **Add workout**<br />
 <br />
-Mark as Yes<br />
+Sumbit Yes<br />
 ![add workout](https://user-images.githubusercontent.com/82652251/152675621-d4b06e1c-4208-48ff-bc39-0f1fcef19676.gif)
 <br />
 <br />
 <br />
-Mark as No<br />
+Sumbit No<br />
 ![missed workout](https://user-images.githubusercontent.com/82652251/152675750-949522d1-fe5c-4234-be4d-c107ad5a4782.gif)
 <br />
 <br />
@@ -89,6 +89,6 @@ Mark as No<br />
 <br />
 <br />
 ## Credit
-The app was developed by Shai odeni using Flutter.
+The app was developed by Shai Odeni using Flutter.
 
 
